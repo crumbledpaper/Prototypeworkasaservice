@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "OpenSans-Light";
+  src: url("../fonts/OpenSans-Light.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/OpenSans-Light.ttf")  format("truetype");
+}
+@font-face {
+  font-family: "KBYoureJustMyType";
+  src: url("../fonts/KBYoureJustMyType.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/KBYoureJustMyType.ttf")  format("truetype");
+}
+@font-face {
+  font-family: "OpenSans-Bold";
+  src: url("../fonts/OpenSans-Bold.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/OpenSans-Bold.ttf")  format("truetype");
+}
